@@ -109,12 +109,12 @@ export default ({ command }: ConfigEnv): UserConfig => {
 
 - 创建目录，与src目录同级
 
-![image-20230721204626534](D:\AppData\Typora-images\README\image-20230721204626534.png)
+![image-20230721204626534](https://raw.githubusercontent.com/Keep-Fight/learn-notes/main/imgs/202307251209153.png)
 
 
 - 创建插件ts文件
 
-![image-20230721205349146](D:\AppData\Typora-images\README\image-20230721205349146.png)
+![image-20230721205349146](https://raw.githubusercontent.com/Keep-Fight/learn-notes/main/imgs/202307251209863.png)
 
 
 
@@ -374,11 +374,7 @@ export const AutoRegistryComponents = () => {
 
 ```
 
-- 导入插件
-
-```
-
-```
+- 在上面导入插件
 
 
 
@@ -979,15 +975,15 @@ module.exports = {
 
 ### 4. 安装插件
 
-![image-20230722224733867](D:\AppData\Typora-images\README\image-20230722224733867.png)
+![image-20230722224733867](https://raw.githubusercontent.com/Keep-Fight/learn-notes/main/imgs/202307251212936.png)
 
-![image-20230722224745544](D:\AppData\Typora-images\README\image-20230722224745544.png)
+![image-20230722224745544](https://gitee.com/LHD86/notes/raw/master/imgs/202307251226450.png)
 
 > 选择默认格式化
 
-![image-20230723142856995](D:\AppData\Typora-images\README\image-20230723142856995.png)
+![image-20230723142856995](https://raw.githubusercontent.com/Keep-Fight/learn-notes/main/imgs/202307251212785.png)
 
-![image-20230723142156189](D:\AppData\Typora-images\README\image-20230723142156189.png)
+![image-20230723142156189](https://raw.githubusercontent.com/Keep-Fight/learn-notes/main/imgs/202307251212140.png)
 
 
 
